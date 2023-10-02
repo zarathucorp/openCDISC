@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# openCDISC <a href='https://Biogen-Inc.github.io/tidyCDISC/'><img src="man/figures/hex-tidyCDISC-170h.png" align="right"/></a>
+# openCDISC <a href='https://github.com/zarathucorp/openCDISC'><img width = 150 src="img/hexsticker.png" align="right"/></a>
 
 `openCDISC` is a shiny app to easily create custom tables and figures
 from ADaM-ish data sets.
@@ -96,3 +96,11 @@ Box Plot
 #### 1. Extra facet feature added.
 
 <img src='img/img7.png'>
+
+------------------------------------------------------------------------
+
+<a href="https://www.flaticon.com/free-icons/send" title="send icons">Send
+icons created by Pixel perfect - Flaticon</a>
+
+This hexsticker was generated with 💕 by
+<a href='https://github.com/jhk0530/polaroid' target = "_blank">polaroid</a>
